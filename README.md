@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9bfda07 (README.md)
 # Currency Converter API (UZS ↔ USD)
 
 This is a simple Flask API that converts between **Uzbekistan (UZS)** and **United States Dollar (USD)**.  
