@@ -20,7 +20,10 @@ def get_sum():
             }
     """  
 
-    return 
+    a=request.args.get('a',type=int)
+    b=request.args.get('b',type=int)
+    result={'sum':a+b}
+    return result
     
 
 if __name__ == "__main__":
